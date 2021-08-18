@@ -1,0 +1,5 @@
+[31-May-2019 13:18:47 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on null in /home/nxaftrnt6kqa/public_html/admin/application/models/Login_model.php on line 64
+[31-May-2019 14:52:05 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on null in /home/nxaftrnt6kqa/public_html/admin/application/models/Login_model.php on line 64
+[31-May-2019 14:52:06 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on null in /home/nxaftrnt6kqa/public_html/admin/application/models/Login_model.php on line 64
+[05-Aug-2021 10:23:43 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/meradaftar/public_html/swaraj/admin/application/views/pincode.php on line 42
+[06-Aug-2021 14:24:40 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/meradaftar/public_html/swaraj/admin/application/controllers/Home.php on line 1827
