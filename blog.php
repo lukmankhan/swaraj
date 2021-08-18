@@ -12,13 +12,13 @@ include_once("header.php");
 
 						   <ul class="w3_short">
 								<li><a href="index.php">Home</a><i>|</i></li>
-								<li>Blog</li>
+								<li>Blogs</li>
 							</ul>
 						 </div>
 				</div>
 	   <!--//w3_short-->
 	</div>
-</div>
+</div> 
 
   <!-- banner-bootom-w3-agileits -->
 	<div class="banner-bootom-w3-agileits">
